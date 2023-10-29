@@ -1,0 +1,3 @@
+[submodule "roles/nomad"]
+	path = roles/nomad
+	url = git@github.com:hmere/ansible-role-nomad.git
